@@ -7,6 +7,10 @@ body {
     Margin: 0 auto;
     font-family: fantasy;
     }
+img {
+    width: 50%;
+    border-radius: 10px;
+}
 h1 {
     text-align: center;
 }
@@ -21,6 +25,9 @@ ul li {
     border-radius: 5px;
     margin: 5px;
     }
+p {
+    line-height: 18px;
+}
 section {
     border-radius: 10px;
     width: 35%;
